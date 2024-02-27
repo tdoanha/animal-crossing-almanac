@@ -1,6 +1,6 @@
 # Animal Crossing Almanac
 
-Access the website here: https://animalcrossingalmanac.netlify.app/ (Website is not deploying properly for some reason, currently debugging @ 2/27/2024 12:48PM)
+Access the website here: https://animalcrossingalmanac.netlify.app/
 
 ## Description:
 
