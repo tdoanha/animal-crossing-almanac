@@ -1,0 +1,44 @@
+What is included in the API?
+============================
+All fish
+Single fish
+All bugs
+Single bug
+All sea creatures
+Single sea creature
+All events
+All artwork
+Single artwork
+All furniture
+Single furniture
+All clothing
+Single clothing
+All interior items
+Signle interior item
+All tools
+Single tool
+All photos and posters
+Single photo or poster
+All miscellaneous items
+Single miscellaneous item
+All recipes
+Single recipe
+All fossils
+Single fossil
+All fossil groups
+Single fossil group
+All fossil groups or individual fossil
+Single fossil group with individual fossils
+
+
+What do I want to include in a Card? (Fish, for now)
+====================================================
+Title
+Picture on the left
+Sell Price (Nook)
+Sell Price (Cj)
+Northern/Southern Hemisphere flag
+Location
+Seasonality
+Time of Day
+Rarity
