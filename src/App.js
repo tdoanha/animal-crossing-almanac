@@ -1,11 +1,18 @@
 import "./App.css";
-import Cards from "./components/Cards";
+import Navbar from "./components/Navbar";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./components/pages/Home";
+import Fish from "./components/pages/Fish";
 
 function App() {
   return (
-    <div className="App">
-      <Cards />
-    </div>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/" exact element={<Home />} />
+        <Route path="/fish" exact element={<Fish />} />
+      </Routes>
+    </Router>
   );
 }
 
