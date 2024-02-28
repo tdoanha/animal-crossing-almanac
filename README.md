@@ -12,7 +12,6 @@ This project is a work in progress. So far this project is a proof of concept of
 
 For the near future, I want to add:
 
-- Navbar
 - Filter Options
 - Pagination
 - Clicking a card enhances the card and adds more almanac information
