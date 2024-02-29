@@ -42,3 +42,11 @@ Location
 Seasonality
 Time of Day
 Rarity
+
+
+Sliding animation for Isabelle image in home page
+=================================================
+
+image size
+transition
+hover jiggle
